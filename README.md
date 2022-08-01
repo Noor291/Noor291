@@ -1,6 +1,6 @@
 ![](https://github.com/Noor291/Noor291/blob/main/Banner.png)
 
-I am a student exploring different things.
+I am a student who loves exploring different things.
 
 Skills: Python/ C++/ JS / HTML / CSS
 
