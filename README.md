@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Noordeep
+![](https://github.com/Noor291/Noor291/blob/main/Banner.png)
 
-<!--
-**Noor291/Noor291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student exploring different things.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Machine Learing Projects.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate on same.
-- 🤔 I’m looking for help with Machine Learning.
-- 📫 How to reach me: https://www.linkedin.com/in/noordeepkaur/ 
-- 😄 Pronouns: She/Her
+Skills: Python/ C++/ JS / HTML / CSS
+
+- 🔭 I’m currently working on different projects 
+- 🌱 I’m currently learning Full Stack Web Development 
+- 🤔 I’m looking for help with same 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noor291)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noordeepkaur//)  
+
 
