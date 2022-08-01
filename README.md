@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Noordeep
 ![](https://github.com/Noor291/Noor291/blob/main/Banner.png)
 
 I am a student exploring different things.
