@@ -1,4 +1,4 @@
-![](https://github.com/Noor291/Noor291/blob/main/Banner.png)
+![Banner](https://github.com/Noor291/Noor291/blob/main/Banner.png)
 
 I am a student who loves exploring different things.
 
