@@ -1,4 +1,4 @@
-![Banner](https://github.com/Noor291/Noor291/blob/main/Banner.png)
+![Banner1](https://github.com/Noor291/Noor291/blob/main/Banner1.png)
 ![counter](https://komarev.com/ghpvc/?username=Noor291&color=2387a0)
 
 I am a student who loves exploring different things.
