@@ -1,6 +1,6 @@
-![Banner1](https://github.com/Noor291/Noor291/blob/main/Banner1.png)
+![Banner](https://github.com/Noor291/Noor291/blob/main/BannerNew.png)
 ![counter](https://komarev.com/ghpvc/?username=Noor291&color=2387a0)
-<p><img align="right" src="https://media-public.canva.com/MADnBmPXxds/3/thumbnail_large.png" alt="Octocat" height='250' /></p>
+<p><img align="right" src="https://media-public.canva.com/MADnBmPXxds/3/thumbnail_large.png" alt="Octocat" height='300' /></p>
 
 I am a student who loves exploring different things.
 
