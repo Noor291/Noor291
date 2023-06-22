@@ -24,7 +24,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noor291&theme=dark" alt="noor291" /></p>
 
-![Bannerb](https://github.com/Noor291/Noor291/blob/main/bannerBottom.png)
+
+[comment]: <> (![Bannerb](https://github.com/Noor291/Noor291/blob/main/bannerBottom.png))
+
 ![Bannerb2](https://github.com/Noor291/Noor291/blob/main/bannerBottom1.png)
 
 
