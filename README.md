@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Noor291/Noor291/blob/main/BannerNew.png)
-![counter](https://komarev.com/ghpvc/?username=Noor291&color=2387a0&style=flat)
+![counter](https://komarev.com/ghpvc/?username=Noor291&color=AE9AAC&style=flat)
 <p><img align="right" src="https://media-public.canva.com/MADnBmPXxds/3/thumbnail_large.png" alt="Octocat" height='350' /></p>
 
 <h2 align="center"> I'm Noordeep Kaur</h2>
