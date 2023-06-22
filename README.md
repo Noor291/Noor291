@@ -1,4 +1,4 @@
-![Banner1](https://github.com/Noor291/Noor291/blob/main/Banner1.png)
+
 ![counter](https://komarev.com/ghpvc/?username=Noor291&color=2387a0)
 <p><img align="right" src="https://media-public.canva.com/MHp94/MAEDdaMHp94/1/tl.png" alt="Girl" height='250' /></p>
 
