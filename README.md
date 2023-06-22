@@ -2,7 +2,7 @@
 ![counter](https://komarev.com/ghpvc/?username=Noor291&color=2387a0&style=flat)
 <p><img align="right" src="https://media-public.canva.com/MADnBmPXxds/3/thumbnail_large.png" alt="Octocat" height='350' /></p>
 
-<h1 align="center">Hi 👋, I'm Noordeep Kaur</h1>
+<h2 align="center"> I'm Noordeep Kaur</h2>
 <h3 align="center">A student who loves exploring.</h3>
 
 - 👨‍💻 I’m Final year CSE Student at **Thapar University.**
