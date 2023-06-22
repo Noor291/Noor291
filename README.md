@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m Final year CSE Student at **Thapar University.**
 - 🔭 I’m currently working on **different projects.** 
-- 🌱 I’m currently learning **Machine Learning, Data Science, DSA and Full-Stack Development.**
+- 🌱 I’m currently learning **ML, Data Science, DSA, and Full-Stack Development.**
 - 📫 How to reach me **noordeep29oct@gmail.com.**
 
 
