@@ -27,7 +27,7 @@
 
 <!--- ![Bannerb](https://github.com/Noor291/Noor291/blob/main/bannerBottom.png)) -->
 
-![Bannerb2](https://github.com/Noor291/Noor291/blob/main/bannerBottom1.png)
+![Bottom](https://github.com/Noor291/Noor291/blob/main/Bottom.png)
 
 
 
