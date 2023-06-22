@@ -23,6 +23,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noor291&show_icons=true&locale=en&layout=compact&theme=dark" alt="noor291" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noor291&theme=dark" alt="noor291" /></p>
+![Banner](https://github.com/Noor291/Noor291/blob/main/bannerBottom.png)
+![Banner](https://github.com/Noor291/Noor291/blob/main/bannerBottom1.png)
+
 
 
 
