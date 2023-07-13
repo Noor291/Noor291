@@ -3,7 +3,7 @@
 <p><img align="right" src="https://media-public.canva.com/MADnBmPXxds/3/thumbnail_large.png" alt="Octocat" height='350' /></p>
 
 <h2 align="center"> I'm Noordeep Kaur</h2>
-<h3 align="center">A student who loves exploring.</h3>
+<h3 align="center">A student who loves exploring</h3>
 
 - 👨‍💻 I’m Final year CSE Student at **Thapar University.**
 - 🔭 I’m currently working on **different projects.** 
