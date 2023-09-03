@@ -24,6 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noor291&theme=dark" alt="noor291" /></p>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Noor2910?theme=unicorn&extension=activity)](https://leetcode.com/Noor2910/)
+
 
 <!--- ![Bannerb](https://github.com/Noor291/Noor291/blob/main/bannerBottom.png)) -->
 
